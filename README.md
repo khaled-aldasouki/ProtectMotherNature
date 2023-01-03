@@ -3,12 +3,12 @@ An indie, run and gun game prototype created for the  HP Gaming Garage Sustainab
 The game uses very basic models and <strong>DOES</strong> include many known bugs and issues but can still be played.
 
 ## Team Whitespace
--Khaled Aldasouki
--Rami Youhana
+- Khaled Aldasouki
+- Rami Youhana
 
 ## Development Tools
--Unity 3D
--C#
+- Unity 3D
+- C#
 
 ## How to Execute 
 1. Clone the repository or download it from the releases tab
@@ -28,14 +28,14 @@ Animals became more aware, and have been called for aid by mother nature, who’
 <emphasize>Please keep in mind that the prototype does not heavly reflect the plot and instead focuses on the main gameplay features</emphasize>
 
 ## Prototype Features
-•A menu screen
-•A help screen
-•A point system
-•1 map
-•1 map interaction
-•1 main weapon and special ability
-•3 basic enemy types 
-•Final boss 
+* A menu screen
+* A help screen
+* A point system
+* 1 map
+* 1 map interaction
+* 1 main weapon and special ability
+* 3 basic enemy types 
+* Final boss 
 
 ### Player
 
@@ -54,33 +54,40 @@ There are 3 basic types of enemies and a boss, each with unique behavior. Defeat
 
 #### Melee Enemy
 
-•Target the closest entity between player or heart and move quickly
-•Deal damage by colliding with the target
-•Have the highest spawn chance 
+* Target the closest entity between player or heart and move quickly
+* Deal damage by colliding with the target
+* Have the highest spawn chance 
+<br>
 ![Melee Enemy](Media/Melee.png)
 
 #### Ranged Enemies
 
-•Chase the player around and disregard the objective
-•Shoot bullets at the player from afar
-•Colliding with them deals a low amount of damage 
-•Have a small amount of health
+* Chase the player around and disregard the objective
+* Shoot bullets at the player from afar
+* Colliding with them deals a low amount of damage 
+* Have a small amount of health
+<br>
+
 ![Ranged Enemy](Media/Ranged.png)
 
 #### Objective Enemies
 
-•Target the objective exclusively
-•Deal large amounts of damage to the objective
-•Cannot damage the player
-•Walk extremely slowly but have more health
+* Target the objective exclusively
+* Deal large amounts of damage to the objective
+* Cannot damage the player
+* Walk extremely slowly but have more health
+<br>
+
 ![Objective Enemy](Media/Objective.png)
 
 #### Level Boss
 
-•Spawns once the player has collected 13 crystals
-•Manifested the powers of the map element
-•A larger, stronger variant of the ranged enemy that shoots at a much faster rate
-•Will only target the player
-•Deal significant melee damage 
-•Drop 5 crystals upon death 
+* Spawns once the player has collected 13 crystals
+* Manifested the powers of the map element
+* A larger, stronger variant of the ranged enemy that shoots at a much faster rate
+* Will only target the player
+* Deal significant melee damage 
+* Drop 5 crystals upon death 
+<br>
+
 ![Level Boss](Media/Boss.png)
