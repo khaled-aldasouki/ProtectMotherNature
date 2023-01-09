@@ -58,6 +58,7 @@ There are 3 basic types of enemies and a boss, each with unique behavior. Defeat
 * Deal damage by colliding with the target
 * Have the highest spawn chance 
 <br>
+
 ![Melee Enemy](Media/Melee.png)
 
 #### Ranged Enemies
