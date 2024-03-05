@@ -4,7 +4,7 @@ The game uses very basic models and <strong>DOES</strong> include many known bug
 
 ## Team Whitespace
 - Khaled Aldasouki
-- Rami Youhana
+- <a href="https://github.com/Rami-Youhana">Rami Youhana</a>
 
 ## Development Tools
 - Unity 3D
